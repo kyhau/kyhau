@@ -1,5 +1,4 @@
-### Hi there 👋 | [codecov](https://codecov.io/gh/kyhau) | [dockerhub](https://hub.docker.com/u/khau/) | [github actions](https://github.com/marketplace?type=actions)
- | [travis-ci](https://travis-ci.org/kyhau) 
+### Hi there 👋 | [codecov](https://codecov.io/gh/kyhau) | [dockerhub](https://hub.docker.com/u/khau/) | [github actions](https://github.com/marketplace?type=actions) | [travis-ci](https://travis-ci.org/kyhau) 
 <!--
 **kyhau/kyhau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
