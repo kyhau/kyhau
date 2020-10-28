@@ -1,4 +1,4 @@
-### Hi there 👋 | [codecov](https://codecov.io/gh/kyhau) | [dockerhub](https://hub.docker.com/u/khau/) | [github actions](https://github.com/marketplace?type=actions) | [travis-ci](https://travis-ci.org/kyhau) | [gist](https://gist.github.com/kyhau) | [hacktoberfest](https://hacktoberfest.digitalocean.com/) 🔭
+### Hi there 👋 | [codecov](https://codecov.io/gh/kyhau) | [dev](https://dev.to/kyhau) | [dockerhub](https://hub.docker.com/u/khau/) | [gist](https://gist.github.com/kyhau) | [github actions](https://github.com/marketplace?type=actions) | [travis-ci](https://travis-ci.org/kyhau) | [hacktoberfest](https://hacktoberfest.digitalocean.com/) 🔭
 <!--
 **kyhau/kyhau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
