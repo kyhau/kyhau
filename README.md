@@ -1,6 +1,6 @@
 ### :octocat: [kyhau.github.io](https://kyhau.github.io) | [gist](https://gist.github.com/kyhau)
 
-<img align="right" width="160" src="image/aws_community_builder_logo.png" />
+<img align="right" width="180" src="image/aws_community_builder_badge.png" />
 
 ## Table of Contents
 
