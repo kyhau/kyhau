@@ -15,13 +15,13 @@
 | Project | Topics |
 | :--- | :--- |
 | [aws-tools](https://github.com/kyhau/aws-tools) <br/> Some of my tools and sample code for building with AWS. | CDK, Bash, Powershell, Python |
+| [slack-command-app-cdk](https://github.com/kyhau/slack-command-app-cdk) <br/> A Slack App/Bot (with CDK v2 and [sam-beta-cdk](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-cdk-getting-started.html)) that can handle requests triggered from a Slack Command which will take longer than 3 seconds to process, and posts the details back to the user. | Slack-bot, API Gateway, Lambda, Python, CDK v2, sam-beta-cdk, SAM |
 | [saml2aws-multi](https://github.com/kyhau/saml2aws-multi) </br> An easy-to-use command line interface to support login and retrieve AWS temporary credentials for multiple roles of different accounts with saml2aws. | saml2aws, Python |
 | [aws-cognito-auth-lambda-nodejs](https://github.com/kyhau/aws-cognito-auth-lambda-nodejs) <br/> Node.js code that can be deployed to AWS Lambda, implements the "authenticate" part of the Amazon Cognito service. | Cognito, JWT, nodejs |
 | [aws-cognito-token-verification-serverside](https://github.com/kyhau/aws-cognito-token-verification-serverside) <br/> Python implementation to process the Amazon Cognito ID token and the access token on the server side. | CDK, Python, JWT, Cognito |
 | [aws-multi-account-viewer](https://github.com/kyhau/aws-multi-account-viewer) <br/> My fork of [awslabs/aws-multi-account-viewer](https://github.com/awslabs/aws-multi-account-viewer). | Viewer, React, Python |
 | [aws-resource-visualisation](https://github.com/kyhau/aws-resource-visualisation) <br/> Scripts for creating Simple visualisation for some for AWS resources. | CDK, Python, D3 |
 | [reko](https://github.com/kyhau/reko) <br/> A simple Python application supporting face based user verification using Amazon Rekognition and Polly, and verbal instructions using Google API speechrecognition. | OpenCV, Polly, Rekognition, Python |
-| [slack-command-app-cdk](https://github.com/kyhau/slack-command-app-cdk) <br/> A Slack App/Bot (with CDK v2) that can handle requests triggered from a Slack Command which will take longer than 3 seconds to process, and posts the details back to the user. | Slack-bot, API Gateway, Lambda, Python, CDK v2|
 | [slack-command-app](https://github.com/kyhau/slack-command-app) <br/> A Slack App/Bot that can handle requests triggered from a Slack Command which will take longer than 3 seconds to process, and posts the details back to the user. | Slack-bot, API Gateway, Lambda, Python |
 | [aws-capacity-checker](https://github.com/kyhau/aws-capacity-checker) <br/> Simple scripts to retrieve EC2 compute capacity of an AWS account, output results in json and csv files, and display results in html. | Python, html |
 | [cdk-examples](https://github.com/kyhau/cdk-examples) <br/> Some AWS CDK (v1 and v2) projects implemented for demo. | CDK, Python |
