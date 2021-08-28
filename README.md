@@ -40,6 +40,7 @@
 
 | Projects | Topics |
 | :--- | :--- |
+| [visual-subnet-tools](https://github.com/kyhau/visual-subnet-tools) <br/> Include visual version of AWS CloudFormation `Fn::Cidr` | Cidr, HTML |
 | [simple-webcam-capture](https://github.com/kyhau/simple-webcam-capture) <br/> Python script for capturing an image from a webcam using OpenCV 2. | Webcam, OpenCV 2, Python |
 | [GoProStream](https://github.com/kyhau/GoProStream) <br/> My fork of [KonradIT/GoProStream](https://github.com/KonradIT/GoProStream) - Tools for handling/displaying GoPro HTTP/UDP stream (Python/Ruby). | GoPro, Stream |
 | [d3-collapsible-tree-demo](https://github.com/kyhau/d3-collapsible-tree-demo) <br/> Example of displaying data in a collapsible tree using D3.js. | D3.js |
