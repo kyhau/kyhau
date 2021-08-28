@@ -56,6 +56,7 @@
 | Projects | Topics |
 | :--- | :--- |
 | [ssllabs-scan](https://github.com/kyhau/ssllabs-scan) <br/> A simple Python script that calls SSL Labs API to do SSL testings on servers and create a report in html. | Python, ssllabs, html |
+| [curl-performance-test-tool](https://github.com/kyhau/curl-performance-test-tool) <br/> A simple tool to benchmark http latency with curl, running in AWS Lambda Function and publish CloudWatch Custom Metrics and Dashboard. | Python, curl, Lambda, CloudWatch Metrics and Dashboard |
 | [python-repo-template](https://github.com/kyhau/python-repo-template) <br/> This is a template repository for quickly creating a python application that can be built, tested, and released as an internal python module. | Python |
 | [github-workflow-templates](https://github.com/kyhau/github-workflow-templates) <br/> Some workflow examples | GitHub Actions Workflow |
 | [phpipam-api-helper](https://github.com/kyhau/phpipam-api-helper) <br/> A simple phpIPAM API helper script finding possible subnets for an IP address. | Python, phpIPAM |
