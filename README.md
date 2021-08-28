@@ -56,6 +56,7 @@
 | :--- | :--- |
 | [ssllabs-scan](https://github.com/kyhau/ssllabs-scan) <br/> A simple Python script that calls SSL Labs API to do SSL testings on servers and create a report in html. | Python, ssllabs, html |
 | [python-repo-template](https://github.com/kyhau/python-repo-template) <br/> This is a template repository for quickly creating a python application that can be built, tested, and released as an internal python module. | Python |
+| [github-workflow-templates](https://github.com/kyhau/github-workflow-templates) <br/> Some workflow examples | GitHub Actions Workflow |
 | [phpipam-api-helper](https://github.com/kyhau/phpipam-api-helper) <br/> A simple phpIPAM API helper script finding possible subnets for an IP address. | Python, phpIPAM |
 | [panos-api-helper](https://github.com/kyhau/panos-api-helper) <br/> A simple PAN-OS API helper script for finding firewall rule. | Python, PAN-OS |
 | [workspace](https://github.com/kyhau/workspace) <br/> Scripts and default configurations for workspace setup automation. | WSL |
