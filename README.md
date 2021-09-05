@@ -20,11 +20,12 @@
 | [aws-cognito-auth-lambda-nodejs](https://github.com/kyhau/aws-cognito-auth-lambda-nodejs) <br/> Node.js code that can be deployed to AWS Lambda, implements the "authenticate" part of the Amazon Cognito service. | Cognito, JWT, nodejs |
 | [aws-cognito-token-verification-serverside](https://github.com/kyhau/aws-cognito-token-verification-serverside) <br/> Python implementation to process the Amazon Cognito ID token and the access token on the server side. | CDK, Python, JWT, Cognito |
 | [aws-multi-account-viewer](https://github.com/kyhau/aws-multi-account-viewer) <br/> My fork of [awslabs/aws-multi-account-viewer](https://github.com/awslabs/aws-multi-account-viewer). | Viewer, React, Python |
+| [cdk-examples](https://github.com/kyhau/cdk-examples) <br/> Some AWS CDK (v1 and v2) projects implemented for demo. | CDK, Python |
+| [slack-command-app](https://github.com/kyhau/slack-command-app) <br/> A Slack App/Bot that can handle requests triggered from a Slack Command which will take longer than 3 seconds to process, and posts the details back to the user. | Slack-bot, API Gateway, Lambda, Python |
+| [synthetics-canary-templates](https://github.com/kyhau/synthetics-canary-templates) <br/> Some AWS Synthetics Canary templates | Synthetics Canary, Python, nodejs |
 | [aws-resource-visualisation](https://github.com/kyhau/aws-resource-visualisation) <br/> Scripts for creating Simple visualisation for some for AWS resources. | CDK, Python, D3 |
 | [reko](https://github.com/kyhau/reko) <br/> A simple Python application supporting face based user verification using Amazon Rekognition and Polly, and verbal instructions using Google API speechrecognition. | OpenCV, Polly, Rekognition, Python |
 | [aws-capacity-checker](https://github.com/kyhau/aws-capacity-checker) <br/> Simple scripts to retrieve EC2 compute capacity of an AWS account, output results in json and csv files, and display results in html. | Python, html |
-| [cdk-examples](https://github.com/kyhau/cdk-examples) <br/> Some AWS CDK (v1 and v2) projects implemented for demo. | CDK, Python |
-| [slack-command-app](https://github.com/kyhau/slack-command-app) <br/> A Slack App/Bot that can handle requests triggered from a Slack Command which will take longer than 3 seconds to process, and posts the details back to the user. | Slack-bot, API Gateway, Lambda, Python |
 | [aws-cf-templates](https://github.com/kyhau/aws-cf-templates) <br/> My CloudFormation templates | CloudFormation |
 | [aws-cognito-angular2-webui](https://github.com/kyhau/aws-cognito-angular2-webui) <br/> My fork of [amazon-archives/aws-cognito-angular-quickstart](https://github.com/amazon-archives/aws-cognito-angular-quickstart). | Cognito, WebUI |
 | [reddeer](https://github.com/kyhau/reddeer) <br/> This repo includes some helper scripts and links for performing chaos engineering and red team operations against AWS APIs. | Python |
