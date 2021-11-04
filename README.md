@@ -29,7 +29,6 @@
 | [aws-eb-app-template](https://github.com/kyhau/aws-eb-app-template) <br/> Sample repo template for creating ElasticBeanstalk app.| ElasticBeanstalk |
 | [hello-visitors](https://github.com/kyhau/hello-visitors) <br/> A simple digital visitor book create with Amazon API Gateway, Lambda, DynamoDB and S3. | API Gateway, Lambda, DynamoDB, S3, Python |
 | [chaos-ssm-documents](https://github.com/kyhau/chaos-ssm-documents) <br/> My folk of [adhorn/chaos-ssm-documents](https://github.com/adhorn/chaos-ssm-documents), Collection of AWS SSM Documents to perform Chaos Engineering experiments. | SSM documents, chaos |
-| [msk-test-utils](https://github.com/kyhau/msk-test-utils) <br/> MSK utils for testing. | MSK |
 | [aws-polly-simple](https://github.com/kyhau/aws-polly-simple) <br/>  Simple code demonstrating how Amazon Polly works. | Polly |
 | [warrant](https://github.com/kyhau/warrant) <br/> My folk of [capless/warrant](https://github.com/capless/warrant) - Python library for using AWS Cognito. With support for SRP. | Cognito, Python |
 
