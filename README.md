@@ -63,7 +63,6 @@
 | [phpipam-api-helper](https://github.com/kyhau/phpipam-api-helper) <br/> A simple phpIPAM API helper script finding possible subnets for an IP address. | Python, phpIPAM |
 | [panos-api-helper](https://github.com/kyhau/panos-api-helper) <br/> A simple PAN-OS API helper script for finding firewall rule. | Python, PAN-OS |
 | [workspace](https://github.com/kyhau/workspace) <br/> Scripts and default configurations for workspace setup automation. | WSL |
-| [faq-chatbot](https://github.com/kyhau/faq-chatbot) <br/> A chat bot for answering questions of a topic. | Slack-bot, Python |
 | [have-a-smile](https://github.com/kyhau/have-a-smile) <br/> Random Python scripts for fun (getting dilbert, fortune cow, xkcd, etc)  | CDK, Python |
 | [codesign](https://github.com/kyhau/codesign) <br/> Create self signed certificates for code signing. | Code signing |
 | [google-keep-helper](https://github.com/kyhau/google-keep-helper) <br/> Python scripts for importing bookmarks from Pocket getpocket.com to Google Keep. | Google Keep, Python |
