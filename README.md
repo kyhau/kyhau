@@ -81,7 +81,6 @@
 
 | Subject | Topics |
 | :--- | :--- |
-| [Operational Excellence](https://wa.aws.amazon.com/wat.pillar.operationalExcellence.en.html) | AWS Well-Architected Framework, The Five Pillars of the Framework |
 | [aws-notebook/Architecture](https://github.com/kyhau/aws-notebook/blob/master/Architecture.md) | Architecture and Design Patterns |
 | [aws-notebook/Security](https://github.com/kyhau/aws-notebook/blob/master/Security.md) | Security related resources and notes |
 | [aws-notebook](https://github.com/kyhau/aws-notebook) | My notebook for AWS certification exam preparation |
