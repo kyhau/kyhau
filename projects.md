@@ -87,9 +87,9 @@
 
 | Repos | Topics |
 | :--- | :--- |
-| [aws-notebook/Architecture](https://github.com/kyhau/aws-notebook/blob/master/Architecture.md) | Architecture and Design Patterns |
-| [aws-notebook/Security](https://github.com/kyhau/aws-notebook/blob/master/Security.md) | Security related resources and notes |
 | [aws-notebook](https://github.com/kyhau/aws-notebook) | My notebook for AWS certification exam preparation |
+| [aws-notebook/Architecture](https://github.com/kyhau/aws-notebook/blob/master/Architecture.md) | Architecture and Design Patterns |
+| [aws-notebook/Security](https://github.com/kyhau/aws-notebook/blob/master/SecurityResources.md) | Security related resources and notes |
 | [docker-notebook](https://github.com/kyhau/docker-notebook) | My notebook for Docker certification exam preparation |
 | [blockchain-notebook](https://github.com/kyhau/blockchain-notebook) | My notes from Blockchain courses |
 | [ml-notebook](https://github.com/kyhau/ml-notebook) | My notes from Machine Learning courses |
