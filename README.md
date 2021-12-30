@@ -1,10 +1,9 @@
 ### :octocat: [kyhau.github.io](https://kyhau.github.io) | [gist](https://gist.github.com/kyhau)
+- 🔭 [Quick list of my public repos](projects.md/#aws-related-projects)
+- ⚡ [Some of my blog posts and notes](projects.md/#blogs-and-notes)
 
 <img align="right" width="180" src="image/aws_community_builder_badge.png" />
 <img align="centre" src="https://github-readme-stats.vercel.app/api?username=kyhau&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-
-- 🔭 [Quick list of my public repos](projects.md/#aws-related-projects)
-- ⚡ [My blog posts and notes](projects.md/#blogs-and-notes)
 
 
 <!--
