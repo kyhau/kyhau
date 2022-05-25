@@ -1,8 +1,8 @@
 <img align="right" width="140" src="image/aws_community_builder_badge.png" />
 
 ### :octocat: [kyhau.github.io](https://kyhau.github.io) | [gist](https://gist.github.com/kyhau)
-- 🔭 [Quick list of my public repos](projects.md/#aws-related-projects)
-- ⚡ [Some of my blog posts and notes](projects.md/#blogs-and-notes)
+- 🔭 My stuff - [public-repos](projects.md/#aws-related-projects) | [my-notes](projects.md/#blogs-and-notes)
+- 🔗 Quick links - [GitHub Advisory DB](https://github.com/advisories)
 
 </br>
 
