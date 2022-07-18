@@ -12,7 +12,7 @@
 </a>
 <a target=_blank href="https://github.com/kyhau">
   <img align="center" alt="kyhau's Top Languages" height="170" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyhau&theme=tokyonight&layout=compact&hide=EJS&hide_border=true"/>
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyhau&theme=tokyonight&count_private=true&layout=compact&hide=EJS&hide_border=true"/>
 </a>
 
 <!--
