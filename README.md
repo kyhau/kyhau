@@ -1,8 +1,8 @@
 <img align="right" width="140" src="image/aws_community_builder_badge.png" />
 
 ### :octocat: [kyhau.github.io](https://kyhau.github.io) | [gist](https://gist.github.com/kyhau)
-- 🔭 My stuff - [public-repos](projects.md/#aws-related-projects) | [my-notes](projects.md/#blogs-and-notes)
-- 🔗 Quick links - [GitHub Advisory DB](https://github.com/advisories)
+- 🔭 [aws-tools](https://github.com/kyhau/aws-tools) | [workspace](https://github.com/kyhau/workspace) | [vscode-configs](https://github.com/kyhau/vscode-configs) | [.github](https://github.com/kyhau/.github) | [github-workflow-templates](https://github.com/kyhau/github-workflow-templates) | [public-repos](projects.md/#aws-related-projects) | [notes](projects.md/#blogs-and-notes)
+- 🔗 [GitHub Advisory DB](https://github.com/advisories)
 
 </br>
 
