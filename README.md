@@ -14,6 +14,7 @@
   | [tryhackme](https://tryhackme.com)
   | [cyberthreat🌎](https://cybermap.kaspersky.com/)
   | [github advisories](https://github.com/advisories)
+  | [useful links](https://github.com/kyhau/workspace/blob/main/quick-notes/UsefulLinks.md)
 
 </br>
 
