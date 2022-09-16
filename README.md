@@ -12,7 +12,6 @@
   | [hackerrank](https://www.hackerrank.com/) 
   | [hacktoberfest](https://hacktoberfest.com/)
   | [tryhackme](https://tryhackme.com)
-  | [digital attack🌏](https://www.digitalattackmap.com/) 
   | [cyberthreat🌎](https://cybermap.kaspersky.com/)
   | [github advisories](https://github.com/advisories)
 
