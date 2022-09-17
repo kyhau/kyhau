@@ -5,19 +5,17 @@
     | [workspace](https://github.com/kyhau/workspace) 
   | [vscode-configs](https://github.com/kyhau/vscode-configs) 
   | [.github](https://github.com/kyhau/.github) 
-  | [test-workflows](https://github.com/kyhau/github-workflow-templates) 
+  | [snyk](https://app.snyk.io)
   | [+repos](projects.md/#aws-related-projects) 
   | [+notes](projects.md/#blogs-and-notes)
-- 🔗 [snyk](https://app.snyk.io)
-  | [tryhackme](https://tryhackme.com/)
-  | [hacktoberfest](https://hacktoberfest.com/)
+- 🔗 [tryhackme](https://tryhackme.com/)
   | [hackerrank](https://www.hackerrank.com/)
   | [skillbuilder](https://explore.skillbuilder.aws/)
+  | [hacktoberfest](https://hacktoberfest.com/)
   | [cncf](https://landscape.cncf.io)
   | [nextstrain](https://nextstrain.org/ncov/gisaid/global/6m)
   | [privacytools](https://www.privacytools.io/)
   | [+links](https://github.com/kyhau/workspace/blob/main/quick-notes/UsefulLinks.md)
-  
 
 </br>
 
