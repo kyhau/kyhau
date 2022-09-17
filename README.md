@@ -5,7 +5,7 @@
     | [workspace](https://github.com/kyhau/workspace) 
   | [vscode-configs](https://github.com/kyhau/vscode-configs) 
   | [.github](https://github.com/kyhau/.github) 
-  | [github-workflow-templates](https://github.com/kyhau/github-workflow-templates) 
+  | [test-workflows](https://github.com/kyhau/github-workflow-templates) 
   | [+repos](projects.md/#aws-related-projects) 
   | [+notes](projects.md/#blogs-and-notes)
 - 🔗 [snyk](https://app.snyk.io)
