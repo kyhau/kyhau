@@ -8,14 +8,15 @@
   | [github-workflow-templates](https://github.com/kyhau/github-workflow-templates) 
   | [public-repos](projects.md/#aws-related-projects) 
   | [notes](projects.md/#blogs-and-notes)
-- 🔗 [cncf](https://landscape.cncf.io)
+- 🔗 [snyk](https://app.snyk.io)
+  | [cncf](https://landscape.cncf.io)
   | [tryhackme](https://tryhackme.com)
   | [hacktoberfest](https://hacktoberfest.com/)
   | [hackerrank](https://www.hackerrank.com/)
   | [privacytools](https://www.privacytools.io/)
   | [nextstrain](https://nextstrain.org/ncov/gisaid/global/6m)
-  | [github advisories](https://github.com/advisories)
-  | [useful links](https://github.com/kyhau/workspace/blob/main/quick-notes/UsefulLinks.md)
+  | [ghadvisories](https://github.com/advisories)
+  | [usefullinks](https://github.com/kyhau/workspace/blob/main/quick-notes/UsefulLinks.md)
 
 </br>
 
