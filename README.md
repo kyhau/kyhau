@@ -6,17 +6,18 @@
   | [vscode-configs](https://github.com/kyhau/vscode-configs) 
   | [.github](https://github.com/kyhau/.github) 
   | [github-workflow-templates](https://github.com/kyhau/github-workflow-templates) 
-  | [public-repos](projects.md/#aws-related-projects) 
-  | [notes](projects.md/#blogs-and-notes)
+  | [+repos](projects.md/#aws-related-projects) 
+  | [+notes](projects.md/#blogs-and-notes)
 - 🔗 [snyk](https://app.snyk.io)
-  | [cncf](https://landscape.cncf.io)
-  | [tryhackme](https://tryhackme.com)
+  | [tryhackme](https://tryhackme.com/)
   | [hacktoberfest](https://hacktoberfest.com/)
   | [hackerrank](https://www.hackerrank.com/)
-  | [privacytools](https://www.privacytools.io/)
+  | [skillbuilder](https://explore.skillbuilder.aws/)
+  | [cncf](https://landscape.cncf.io)
   | [nextstrain](https://nextstrain.org/ncov/gisaid/global/6m)
-  | [ghadvisories](https://github.com/advisories)
-  | [usefullinks](https://github.com/kyhau/workspace/blob/main/quick-notes/UsefulLinks.md)
+  | [privacytools](https://www.privacytools.io/)
+  | [+links](https://github.com/kyhau/workspace/blob/main/quick-notes/UsefulLinks.md)
+  
 
 </br>
 
