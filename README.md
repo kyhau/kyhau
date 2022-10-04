@@ -22,11 +22,11 @@
 
 <a target=_blank href="https://github.com/kyhau">
   <img align="center" alt="kyhau's GitHub Stats" width="440"
-       src="https://github-readme-stats.vercel.app/api?username=kyhau&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true"/>
+       src="https://github-readme-stats.vercel.app/api?username=kyhau&show_icons=true&theme=ocean_dark&count_private=true&include_all_commits=true&hide_border=true"/>
 </a>
 <a target=_blank href="https://github.com/kyhau">
   <img align="center" alt="kyhau's Top Languages" height="170" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyhau&theme=tokyonight&count_private=true&layout=compact&hide=EJS&hide_border=true"/>
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyhau&theme=ocean_dark&count_private=true&layout=compact&hide=EJS&hide_border=true"/>
 </a>
 
 <!--
