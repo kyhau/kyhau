@@ -1,4 +1,6 @@
+<!--
 <img align="right" width="140" src="image/aws_community_builder_badge.png" />
+-->
 
 ### :octocat: [kyhau.github.io](https://kyhau.github.io) | [gist](https://gist.github.com/kyhau)
 - 🔭 [aws-tools](https://github.com/kyhau/aws-tools) 
