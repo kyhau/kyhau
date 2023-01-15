@@ -12,10 +12,11 @@
   | [repos+](projects.md/#aws-related-projects) 
   | [links+](https://github.com/kyhau/workspace/blob/main/quick-notes/UsefulLinks.md)
 - 🔗 [tryhackme](https://tryhackme.com/)
-  | [hackerrank](https://www.hackerrank.com/)
-  | [cryptohack](https://cryptohack.org/)
-  | [skillbuilder](https://explore.skillbuilder.aws/)
   | [ethicalhacking](https://www.tutorialspoint.com/ethical_hacking/)
+  | [skillbuilder](https://explore.skillbuilder.aws/)
+  | [ckad](https://github.com/dgkanatsios/CKAD-exercises)
+  | [cryptohack](https://cryptohack.org/)
+  | [hackerrank](https://www.hackerrank.com/)
   | [hacktoberfest](https://hacktoberfest.com/)
 
 </br>
