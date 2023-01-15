@@ -8,17 +8,15 @@
   | [vscode-configs](https://github.com/kyhau/vscode-configs) 
   | [.github](https://github.com/kyhau/.github) 
   | [snyk](https://app.snyk.io)
-  | [hacktoberfest](https://hacktoberfest.com/)
-  | [+repos](projects.md/#aws-related-projects) 
-  | [+notes](projects.md/#blogs-and-notes)
+  | [nextstrain](https://nextstrain.org/ncov/gisaid/global/6m)
+  | [repos+](projects.md/#aws-related-projects) 
+  | [links+](https://github.com/kyhau/workspace/blob/main/quick-notes/UsefulLinks.md)
 - 🔗 [tryhackme](https://tryhackme.com/)
   | [hackerrank](https://www.hackerrank.com/)
   | [cryptohack](https://cryptohack.org/)
   | [skillbuilder](https://explore.skillbuilder.aws/)
-  | [cncf](https://landscape.cncf.io)
-  | [nextstrain](https://nextstrain.org/ncov/gisaid/global/6m)
-  | [privacytools](https://www.privacytools.io/)
-  | [+links](https://github.com/kyhau/workspace/blob/main/quick-notes/UsefulLinks.md)
+  | [ethicalhacking](https://www.tutorialspoint.com/ethical_hacking/)
+  | [hacktoberfest](https://hacktoberfest.com/)
 
 </br>
 
