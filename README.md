@@ -15,6 +15,7 @@
   | [tryhackme](https://tryhackme.com/)
   | [ethicalhacking](https://www.tutorialspoint.com/ethical_hacking/)
   | [skillbuilder](https://explore.skillbuilder.aws/)
+  | [graphql](https://www.apollographql.com/tutorials/)
   | [ckad](https://github.com/dgkanatsios/CKAD-exercises)
   | [cryptohack](https://cryptohack.org/)
   | [hackerrank](https://www.hackerrank.com/)
