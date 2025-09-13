@@ -7,7 +7,6 @@
     | [workspace](https://github.com/kyhau/workspace) 
   | [.github](https://github.com/kyhau/.github) 
   | [snyk](https://app.snyk.io)
-  | [githubblocks](https://blocks.githubnext.com/)
   | [nextstrain](https://nextstrain.org/ncov/gisaid/global/6m)
   | [repos+](projects.md/#aws-related-projects) 
   | [links+](https://github.com/kyhau/workspace/blob/main/quick-notes/UsefulLinks.md)
