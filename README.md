@@ -5,7 +5,6 @@
 ### :octocat: [kyhau.github.io](https://kyhau.github.io) | [gist](https://gist.github.com/kyhau)
 - 🔭 [aws-tools](https://github.com/kyhau/aws-tools) 
     | [workspace](https://github.com/kyhau/workspace) 
-  | [vscode-configs](https://github.com/kyhau/vscode-configs) 
   | [.github](https://github.com/kyhau/.github) 
   | [snyk](https://app.snyk.io)
   | [githubblocks](https://blocks.githubnext.com/)
