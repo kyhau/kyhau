@@ -8,6 +8,8 @@
   | [.github](https://github.com/kyhau/.github) 
   | [snyk](https://app.snyk.io)
   | [nextstrain](https://nextstrain.org/ncov/gisaid/global/6m)
+  | [mermaid](https://mermaid.live)
+  | [excalidraw](https://excalidraw.com/)
   | [repos+](projects.md/#aws-related-projects) 
   | [links+](https://github.com/kyhau/workspace/blob/main/quick-notes/UsefulLinks.md)
 - 🔗 [tryhackme](https://tryhackme.com/)
